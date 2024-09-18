@@ -1,5 +1,5 @@
 {
-  "name": "01-fundamentos-reactjs",
+  "name": "ignite-reactjs-01-fundamentos-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "01-fundamentos-reactjs": "file:",
+    "ignite-reactjs-01-fundamentos-react": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },

@@ -6,6 +6,7 @@ import { Post } from "./Post"
 function App() {
   return (
     <div>
+      
       <Header />
         <Post 
           author = "Diego Freitas"
