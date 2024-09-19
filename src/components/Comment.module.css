@@ -3,11 +3,11 @@
     display: flex;
     gap: 1rem;
   }
-  .comment > img {
+  /* .comment > img {
     width: 3rem;
     height: 3rem;
     border-radius: 8px;
-  }
+  } */
   .commentBox {
     flex: 1;
   }
